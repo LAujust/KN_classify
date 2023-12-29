@@ -13,10 +13,10 @@
 - Through Github repository
 
 ```
-https://github.com/LAujust/KN_classify.git
+git clone https://github.com/LAujust/KN_classify.git
 ```
 
 
 ### Publication
 
-- Initail result and test of performance on mock Wide Field Survey Telescope (WFST): Kilonova-Targeting Lightcurve Classification for Wide Field Survey Telescope, Liang et al. arXiv e-print: [2312.12169](https://arxiv.org/abs/2312.12169)
+- Initail result and test of performance on mock Wide Field Survey Telescope (WFST): Kilonova-Targeting Lightcurve Classification for Wide Field Survey Telescope, Liang et al. doi:[10.3390/universe10010010](https://doi.org/10.3390/universe10010010)
